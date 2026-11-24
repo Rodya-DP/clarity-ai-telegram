@@ -1,0 +1,4 @@
+profiles.json
+*.tmp
+.env
+__pycache__/
